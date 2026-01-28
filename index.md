@@ -9,7 +9,7 @@ title: "🎨 MFI Design Internship"
 
 ## About the Program
 
-Welcome to the **Monash Food Innovation Design Internship**.
+Welcome to the **[Monash Food Innovation](www.monash.edu/monashfoodinnovation) Design Internship**.
 
 This is a **12-week immersive program** designed to bridge the gap between creative concept and commercial reality.
 
@@ -33,6 +33,7 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 ## 📚 Materials & Timetable
 
 ### [Week 1–2: Orientation & Foundation](week1-2.md)
+
 
 
 ---
