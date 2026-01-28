@@ -4,8 +4,8 @@ theme: minima
 
 # If this is a project site (username.github.io/repo-name), set baseurl to "/repo-name"
 # If this is a user site (username.github.io), leave baseurl as ""
-url: "https://YOUR-USERNAME.github.io"
-baseurl: "/YOUR-REPO-NAME"
+url: "https://mfi-internship.github.io"
+baseurl: ""
 
 # Show these pages in the top nav (Minima uses this)
 header_pages:
