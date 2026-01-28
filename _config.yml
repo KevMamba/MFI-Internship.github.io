@@ -1,3 +1,24 @@
 title: MFI Design Internship
+description: 12-week immersive design internship handbook (Monash Food Innovation)
 theme: minima
 
+# If this is a project site (username.github.io/repo-name), set baseurl to "/repo-name"
+# If this is a user site (username.github.io), leave baseurl as ""
+url: "https://YOUR-USERNAME.github.io"
+baseurl: "/YOUR-REPO-NAME"
+
+# Show these pages in the top nav (Minima uses this)
+header_pages:
+  - index.md
+  - week1-2.md
+  # - contact.md   # add this if/when you create contact.md
+
+# Nice-to-haves
+markdown: kramdown
+permalink: pretty
+timezone: Australia/Melbourne
+
+# Optional: keep build output clean
+exclude:
+  - README.md
+  - .gitignore
