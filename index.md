@@ -56,12 +56,10 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 [carlsonlylee@gmail.com](mailto:carlsonlylee@gmail.com)
 
 📍 **[Location](https://maps.app.goo.gl/hUwaxa6mxqRexxuS7)**  
-Room 217, Level 2  
-Green Chemical Futures Building 86
-Clayton Campus
-13 Rainforest Walk
-  
- 
+Room 217, Level 2 <br>
+Green Chemical Futures Building 86<br>
+Clayton Campus<br>
+13 Rainforest Walk 
 
 ---
 
