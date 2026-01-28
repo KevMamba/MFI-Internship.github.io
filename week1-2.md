@@ -1,4 +1,4 @@
-	<!--# 🟢 Week 1–2: Orientation & Foundations -->
+# 🟢 Week 1–2: Orientation & Foundations
 *By Carlson Lee*
 
 ---
