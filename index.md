@@ -9,7 +9,7 @@ title: "🎨 MFI Design Internship"
 
 ## About the Program
 
-Welcome to the **[Monash Food Innovation](www.monash.edu/monashfoodinnovation) Design Internship**.
+Welcome to the **[Monash Food Innovation](https://www.monash.edu/monashfoodinnovation) Design Internship**.
 
 This is a **12-week immersive program** designed to bridge the gap between creative concept and commercial reality.
 
@@ -57,9 +57,10 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 
 📍 **[Location](https://maps.app.goo.gl/hUwaxa6mxqRexxuS7)**  
 Room 217, Level 2  
-Green Chemical Futures Building  
-86, Clayton Campus  
-13 Rainforest Walk  
+Green Chemical Futures Building 86
+Clayton Campus
+13 Rainforest Walk
+  
  
 
 ---
