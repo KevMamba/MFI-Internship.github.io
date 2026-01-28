@@ -28,7 +28,7 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 
 ## 📚 Materials & Timetable
 
-### [Week 1–2: Orientation & Foundation](/Week1&2)
+### [Week 1–2: Orientation & Foundation](week1-2.md)
 
 
 ---
