@@ -49,11 +49,27 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 
 ## 👋 Contact Details
 
-📧 **Abhishek Banerjee**  
+<p>
+  📧 <strong>Abhishek Banerjee</strong>
+  <a href="https://www.linkedin.com/in/abhishek-banerjee-341297aa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="20"
+         style="vertical-align: middle; margin-left: 10px;" />
+  </a>
+</p>
+
+
 [abhishek.banerjee@monash.edu](mailto:abhishek.banerjee@monash.edu)
 
-📧 **Carlson Lee**  
-[carlsonlylee@gmail.com](mailto:carlsonlylee@gmail.com)
+<p>
+  📧 <strong>Carlson Ham</strong>
+  <a href="https://www.linkedin.com/in/carlsonlylee/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="20"
+         style="vertical-align: middle; margin-left: 10px;" />
+  </a>
+</p>
+<!--  [carlsonlylee@gmail.com](mailto:carlsonlylee@gmail.com)-->
 
 📍 **[Location](https://maps.app.goo.gl/hUwaxa6mxqRexxuS7)**  
 Room 217, Level 2 <br>
