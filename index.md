@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "🎨 MFI Design Internship  "
+title: "🎨 MFI Design Internship"
 ---
 
 *By Carlson Ham*
+
 ---
 
 ## About the Program
