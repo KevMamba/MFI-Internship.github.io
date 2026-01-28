@@ -1,6 +1,9 @@
-# 🎨 MFI Design Internship  
-*By Carlson Ham*
+---
+layout: page
+title: "🎨 MFI Design Internship  "
+---
 
+*By Carlson Ham*
 ---
 
 ## About the Program
