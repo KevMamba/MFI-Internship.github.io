@@ -19,6 +19,10 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 
 ---
 
+# 💥 [Apply Now!](https://forms.gle/twjWEHpmqTbSwbKq6)
+
+---
+
 ## 🚀 Focus Areas
 
 |  |  |
@@ -46,7 +50,6 @@ By collaborating with multidisciplinary teams and key industry partners, you wil
 | **Carlson** | ✔️ |      | ✔️ |      | ✔️ |
 
 ---
-## 💥 [Apply Now!](https://forms.gle/twjWEHpmqTbSwbKq6)
 
 ## 👋 Contact Details
 
